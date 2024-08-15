@@ -121,7 +121,7 @@ could help predict the level of incident severity a flight could result in.
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](Jet_Analysis_V3.ipynb) or review this [presentation](Presentation1.pdf). 
+See the full analysis in the [Jupyter Notebook](Jet_Analysis_V3.ipynb), and review this [presentation](Presentation1.pdf) or view the [Analysis Tableau Dashboard](https://public.tableau.com/app/profile/andrew.reusche/viz/Jet_AnalysisDashboard/Dashboard1). 
 
 For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
 
