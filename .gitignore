@@ -8,6 +8,8 @@ __pycache__/
 
 ignore_these/
 
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
