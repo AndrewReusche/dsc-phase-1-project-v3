@@ -3,7 +3,7 @@
 # Aviation Data Analysis
 
 
-Author: [Andrew Reusche] (https://www.linkedin.com/in/andrew-reusche-1397bb311/)
+Author: [Andrew Reusche](https://www.linkedin.com/in/andrew-reusche-1397bb311/)
 
 
 ## Project Overview 
@@ -128,10 +128,17 @@ For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
 ## Repository Structure
 
 ├── .gitignore
+
 ├── data2
+
 ├── images2
+
 ├── README.md
+
 ├── Jet_Analysis_Dashboard 1.png
+
 ├── Jet_Analysis_Dashboard 1.html
+
 ├── Presentation1.pdf
+
 └── Jet_Analysis_V3.ipynb
