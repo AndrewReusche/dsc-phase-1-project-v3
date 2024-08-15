@@ -1,9 +1,9 @@
-![image.png](attachment:cbe2eeb8-e531-4d33-b198-2a59e8f7e033.png)
+![Jet Size Analysis](./images2/Screenshot_2024-08-11_at_10.08.28 PM.png "Jet Size Analysis")
 
 # Aviation Data Analysis
 
 
-#### Author: [Andrew Reusche] (https://www.linkedin.com/in/andrew-reusche-1397bb311/)
+Author: [Andrew Reusche] (https://www.linkedin.com/in/andrew-reusche-1397bb311/)
 
 
 ## Project Overview 
@@ -82,24 +82,24 @@ Implementing these recommendations into the criteria for selecting a Jet operati
 to invest in will help minimize the risk of undesirable events, such as fatalities
 and unfavorable flight conditions.
 
-    1) Invest in jets that mainly operate in the Northeast region of the USA. In
-    terms of weather conditions, it is more difficult to operate aircraft during
-    Instrument Meteorological Conditions (IMC) than Visual Meteorological
-    Conditions (VMC). According to this dataset, from 1962 to 2023, The Northeast
-    region of America, compared to the other regions of America, has experienced
-    the fewest fatal jet incidents that took place during IMC.
+1) Invest in jets that mainly operate in the Northeast region of the USA. In
+terms of weather conditions, it is more difficult to operate aircraft during
+Instrument Meteorological Conditions (IMC) than Visual Meteorological
+Conditions (VMC). According to this dataset, from 1962 to 2023, The Northeast
+region of America, compared to the other regions of America, has experienced
+the fewest fatal jet incidents that took place during IMC.
 
-    2) Invest in jets that have larger passenger-carrying capacities. According
-    to this dataset, in America, jets with the capacity to carry over 10 people
-    have experienced over 3X fewer fatal incidents than jets that can only carry
-    10 or less people (Personal Jets). This is even further shown by jets that
-    can carry over 200 people only experiencing around 4% of the number of fatal
-    incidents that Personal Jets experienced,
+2) Invest in jets that have larger passenger-carrying capacities. According
+to this dataset, in America, jets with the capacity to carry over 10 people
+have experienced over 3X fewer fatal incidents than jets that can only carry
+10 or less people (Personal Jets). This is even further shown by jets that
+can carry over 200 people only experiencing around 4% of the number of fatal
+incidents that Personal Jets experienced,
 
-    3) Invest in Airplanes that utilize Turbo Jet Engines as a method of propulsion.
-    According to this dataset, in America, airplanes that use Turbo Jet Engines
-    have experienced a lower amount of fatal incidents, than other jet engine
-    types, over a 60 year span.
+3) Invest in Airplanes that utilize Turbo Jet Engines as a method of propulsion.
+According to this dataset, in America, airplanes that use Turbo Jet Engines
+have experienced a lower amount of fatal incidents, than other jet engine
+types, over a 60 year span.
 
 ### Next Steps
 
@@ -107,15 +107,15 @@ Additional analysis could help further minimize the risk our company takes on
 when selecting a new aircraft operation to invest in by bringing additional
 insights to light.
 
-    1) Jet improvement analysis. This model could display which types of jets
-    have improved the most over the years and now have a smaller chance of
-    experiencing a fatal incident.
+1) Jet improvement analysis. This model could display which types of jets
+have improved the most over the years and now have a smaller chance of
+experiencing a fatal incident.
     
-    2) Flight purpose analysis. This model could display which types of flights
-    are more prone to experiencing fatal incidents. 
+2) Flight purpose analysis. This model could display which types of flights
+are more prone to experiencing fatal incidents. 
     
-    3) Risk predictor model. Given details about a potential flight, this model
-    could help predict the level of incident severity a flight could result in. 
+3) Risk predictor model. Given details about a potential flight, this model
+could help predict the level of incident severity a flight could result in. 
 
 
 
@@ -124,3 +124,14 @@ insights to light.
 See the full analysis in the [Jupyter Notebook](Jet_Analysis_V3.ipynb) or review this [presentation](Presentation1.pdf). 
 
 For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
+
+## Repository Structure
+
+├── .gitignore
+├── data2
+├── images2
+├── README.md
+├── Jet_Analysis_Dashboard 1.png
+├── Jet_Analysis_Dashboard 1.html
+├── Presentation1.pdf
+└── Jet_Analysis_V3.ipynb
