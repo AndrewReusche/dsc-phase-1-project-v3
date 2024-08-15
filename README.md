@@ -135,10 +135,6 @@ For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
 
 ├── README.md
 
-├── Jet_Analysis_Dashboard 1.png
-
-├── Jet_Analysis_Dashboard 1.html
-
 ├── Presentation1.pdf
 
 └── Jet_Analysis_V3.ipynb
