@@ -123,6 +123,10 @@ are more prone to experiencing fatal incidents.
 3) Risk predictor model. Given details about a potential flight, this model
 could help predict the level of incident severity a flight could result in. 
 
+This allows us to break into the market with a minimized risk, while entering 
+at a lower price point. With this, we can expand faster to the rest of the 
+country and with additional types of jets once we have solidified our place 
+in the market and gained customer confidence. 
 
 
 ## For More Information
