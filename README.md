@@ -101,6 +101,12 @@ According to this dataset, in America, airplanes that use Turbo Jet Engines
 have experienced a lower amount of fatal incidents, than other jet engine
 types, over a 60 year span.
 
+This allows us to break into the market with a minimized risk, while entering at
+a lower price point. With this, we can expand faster to the rest of the country 
+and with additional types of jets once we have solidified our place in the market 
+and gained customer confidence. 
+
+
 ### Next Steps
 
 Additional analysis could help further minimize the risk our company takes on
